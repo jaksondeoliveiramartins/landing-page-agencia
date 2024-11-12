@@ -4,15 +4,13 @@ Neste projeto foi elaborado uma Landing Page de uma Agência, desenvolvido atrav
 
 ## Indice
 
-- [Origem](#Origem)
+- [Origem](#origem)
 
 - [Funcionalidades](#funcionalidades)
 
-- [Ferramentas Tecnológicas](#ferramentas-Tecnológicas)
+- [Ferramentas Tecnológicas](#ferramentas-tecnológicas)
 
--[Screenshot](#screenshot)
-[<img src="./src/gif/landig-page-agencia.gif" alt="gif screenshot"> ]
-
+- [Screenshot](#screenshot)
 
 - [Conclusão](#conclusão)
 
@@ -27,6 +25,9 @@ Através do Desafio FrontEnd Mentor iremos desenvolver  uma landing page de uma 
 - Obter Experiência com as habilidades técnicas de desenvolvimento FrontEnd.
 - Executar técnicas adquiridas com base dos estudos das linguagens HTML, CSS-grid-flex
 - Design moderno e interativo com animações e transições em CSS.
+
+## Screenshot
+[<img src="./src/gif/landig-page-agencia.gif" alt="gif screenshot"> ]
 
 ## Ferramenta Tecnológicas
 
