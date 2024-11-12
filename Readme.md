@@ -29,7 +29,8 @@ Através do Desafio FrontEnd Mentor iremos desenvolver  uma landing page de uma 
 - Design moderno e interativo com animações e transições em CSS.
 
 ## Screenshot
-[<img src="./src/gif/landig-page-agencia.gif" alt="gif screenshot"> ]
+
+[<img src="./src/gif/landing-page-agencia.gif" alt="landing-page">]
 
 ## Ferramenta Tecnológicas
 
